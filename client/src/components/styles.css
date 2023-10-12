@@ -1,0 +1,24 @@
+.customOverlay {
+    background: rgba(128, 179, 201, 0.7);
+  }
+  .customModal {
+    background: #0b1829;
+    border-radius: 2px;
+   
+   
+  
+}
+.customModalEnroll{
+    background: #0b1829;
+    border-radius: 2px;
+    height: 90vh;
+    width: 80%;
+    max-width: 500px;
+}
+.customOverlayEnroll {
+    background: rgba(128, 179, 201, 0.7);
+}
+
+.Mui-selected {
+    background-color: blue;
+}
